@@ -1,0 +1,36 @@
+site_name: Anderson Lab @ UC Berkeley
+site_url: https://UCB-BioE-Anderson-Lab.github.io/
+repo_url: https://github.com/UCB-BioE-Anderson-Lab/UCB-BioE-Anderson-Lab.github.io
+
+theme:
+  name: material
+  logo: images/logo.png
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.annotate
+    - toc.follow
+    - header.autohide
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Publications: publications.md
+  - Teaching: teaching.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - footnotes
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+
+plugins:
+  - search
+
+extra_css:
+  - css/custom.css

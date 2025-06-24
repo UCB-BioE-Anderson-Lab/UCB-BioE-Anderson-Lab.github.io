@@ -1,0 +1,535 @@
+conceicao2025:
+  authors:
+    - Conceicao LL
+    - Lin H
+    - Tai D
+    - Xue G
+    - Zhang H
+    - Zhang C
+    - Anderson JC
+  year: 2025
+  title: "EVODEX: A Mechanistic Framework for Extracting, Structuring, and Predicting Enzymatic Reactivity"
+  biorxiv: 10.1101/2025.06.19.660615v1
+  tags: [research]
+  
+lim2025:
+  authors:
+    - Lim D
+    - Badrinarayanan S
+    - Sterling KC
+    - Rajesh G
+    - Mistry E
+    - Yang D
+    - Lee M
+    - Hsu KB
+    - Manjrekar M
+    - Areff C
+    - Xie P
+    - Kristanto IA
+    - Chandran A
+    - Anderson JC
+  year: 2025
+  title: "Interpreting biochemical text with language models: a machine learning framework for reaction extraction and cheminformatic validation"
+  biorxiv: 10.1101/2025.05.15.654376v1
+  tags: [research]
+
+ataii2023:
+  authors:
+    - Ataii N
+    - Bakshi S
+    - Chen Y
+    - Fernandez M
+    - Shao Z
+    - Scheftel Z
+    - Tou C
+    - Vega M
+    - Wang Y
+    - Zhang H
+    - Zhao Z
+    - Anderson JC
+  year: 2023
+  journal: PLoS One
+  title: Enabling AI in synthetic biology through Construction File specification
+  doi: 10.1371/journal.pone.0294469
+  pmid: 37956196
+  pmcid: PMC10642840
+  biorxiv: 10.1101/2023.06.28.546630v1
+  tags: [research]
+raad2017:
+  authors:
+    - Raad M
+    - Modavi C
+    - Sukovich DJ
+    - Anderson JC
+  year: 2017
+  journal: ACS Chemical Biology
+  title: Observing Biosynthetic Activity Utilizing Next Generation Sequencing and the DNA Linked Enzyme Coupled Assay
+  doi: 10.1021/acschembio.6b00652
+  tags: [research]
+
+lopez2015:
+  authors:
+    - Lopez G
+    - Anderson JC
+  year: 2015
+  journal: ACS Synthetic Biology
+  title: Synthetic Auxotrophs with Ligand-Dependent Essential Genes for a BL21(DE3) Biosafety Strain
+  tags: [research]
+
+hsiau2015:
+  authors:
+    - Hsiau TH
+    - Sukovich DJ
+    - Elms P
+    - Prince RN
+    - Strittmatter T
+    - Ruan P
+    - Curry B
+    - Anderson P
+    - Sampson J
+    - Anderson JC
+  year: 2015
+  journal: PLoS One
+  title: A method for multiplex gene synthesis employing error correction based on expression
+  tags: [research]
+
+sukovich2015:
+  authors:
+    - Sukovich DJ
+    - Modavi C
+    - de Raad M
+    - Prince RN
+    - Anderson JC
+  year: 2015
+  journal: ACS Synthetic Biology
+  title: A DNA-Linked Enzyme-Coupled Assay for Probing Glucosyltransferase Specificity
+  tags: [research]
+
+galdzicki2014:
+  authors:
+    - Galdzicki M
+    - Wilson ML
+    - Rodriguez CA
+    - Oberortner E
+    - Pocock M
+    - Adam L
+    - Anderson JC
+    - Bartley BA
+    - Beal J
+    - Chandran D
+    - Chen J
+    - Densmore D
+    - Endy D
+    - Grönberg R
+    - Hallinan J
+    - Hillson NJ
+    - Huang H
+    - Johnson JD
+    - Kuchinsky A
+    - Lux M
+    - Misirli G
+    - Myers CJ
+    - Peccoud J
+    - Plahar HA
+    - Roehner N
+    - Sirin E
+    - Stan G-B
+    - Villalobos A
+    - Wipat A
+    - Gennari JH
+    - Sauro HM
+  year: 2014
+  journal: Nature Biotechnology
+  title: "SBOL: A community standard for communicating designs in synthetic biology"
+  tags: [research]
+
+hsiau2013:
+  authors:
+    - Hsiau TH
+    - Anderson JC
+  year: 2013
+  journal: ACS Synthetic Biology
+  title: The Engineered DNA Sequence Syntax Inspector
+  tags: [research]
+
+xia2013:
+  authors:
+    - Xia Y
+    - Diprimio N
+    - Keppel TR
+    - Vo B
+    - Fraser K
+    - Battaile KP
+    - Egan C
+    - Bystroff C
+    - Lovell S
+    - Weis DD
+    - Anderson JC
+    - Karanicolas J
+  year: 2013
+  journal: Journal of the American Chemical Society
+  title: "The designability of protein switches by chemical rescue of structure: mechanisms of inactivation and reactivation"
+  tags: [research]
+
+oberortner2012:
+  authors:
+    - Oberortner E
+    - Bhatia S
+    - Densmore D
+    - Anderson JC
+  year: 2012
+  journal: 19th Conference on Pattern Languages of Programs
+  title: "Clotho 3.0: A Pattern-based Story on the Design of Clotho's New Architecture"
+  tags: [conference]
+
+huh2013:
+  authors:
+    - Huh J
+    - Kittleson JT
+    - Arkin AP
+    - Anderson JC
+  year: 2013
+  journal: ACS Synthetic Biology
+  title: Modular Design of a Synthetic Payload Delivery Device
+  tags: [research]
+
+leguia2013:
+  authors:
+    - Leguia M
+    - Brophy J
+    - Densmore D
+    - Asante A
+    - Anderson JC
+  year: 2013
+  journal: Journal of Biological Engineering
+  title: "2ab assembly: a methodology for automatable, high-throughput assembly of standard biological parts"
+  tags: [research]
+
+kittleson2012:
+  authors:
+    - Kittleson JT
+    - DeLoache W
+    - Cheng H-Y
+  year: 2012
+  journal: ACS Synthetic Biology
+  title: Scalable Plasmid Transfer using Engineered P1-based Phagemids
+  tags: [research]
+
+srivastava2012:
+  authors:
+    - Srivastava S
+    - Kotker J
+    - Hamilton S
+    - Ruan P
+    - Tsui J
+    - Anderson JC
+    - Bodik R
+    - Seshia SA
+  year: 2012
+  journal: Fourth International Workshop on Bio-Design Automation (IWBDA)
+  title: Pathway Synthesis using the Act Ontology
+  tags: [conference]
+
+kittleson2012modular:
+  authors:
+    - Kittleson JT
+    - Wu GC
+    - Anderson JC
+  year: 2012
+  journal: Current Opinion in Chemical Biology
+  title: Successes and failures in modular genetic engineering
+  tags: [research]
+
+kittleson2011:
+  authors:
+    - Kittleson JT
+    - Cheung S
+    - Anderson JC
+  year: 2011
+  journal: Journal of Biological Engineering
+  title: Rapid optimization of gene dosage in E. coli using DIAL strains
+  tags: [research]
+
+leguia2011:
+  authors:
+    - Leguia M
+    - Brophy J
+    - Densmore D
+    - Anderson JC
+  year: 2011
+  journal: Methods in Enzymology
+  title: Automated assembly of standard biological parts
+  tags: [research]
+
+xia2011:
+  authors:
+    - Xia B
+    - Bhatia S
+    - Bubenheim B
+    - Dadgar M
+    - Densmore D
+    - Anderson JC
+  year: 2011
+  journal: Methods in Enzymology
+  title: Developer's and User's Guide to Clotho v2.0 A Software Platform for the Creation of Synthetic Biological Systems
+  tags: [research]
+
+bilitchenko2011:
+  authors:
+    - Bilitchenko L
+    - Liu A
+    - Cheung S
+    - Weeding E
+    - Xia B
+    - Leguia M
+    - Anderson JC
+    - Densmore D
+  year: 2011
+  journal: PLoS One
+  title: "Eugene – A Domain Specific Language for Specifying and Constraining Synthetic Biological Parts, Devices, and Systems"
+  tags: [research]
+
+peccoud2011:
+  authors:
+    - Peccoud J
+    - Anderson JC
+    - Chandran D
+    - Densmore D
+    - Galdzicki M
+    - Lux MW
+    - Rodriguez CA
+    - Stan GB
+    - Sauro HM
+  year: 2011
+  journal: Nature Biotechnology
+  title: Essential information for synthetic DNA sequences
+  tags: [research]
+
+densmore2010:
+  authors:
+    - Densmore D
+    - Kittleson JT
+    - Bilitchenko L
+    - Liu A
+    - Anderson JC
+  year: 2010
+  journal: IEEE International Symposium on Circuits and Systems (ISCAS)
+  title: Rule Based Constraints for the Construction of Genetic Devices
+  tags: [conference]
+
+densmore2010algorithms:
+  authors:
+    - Densmore D
+    - Hsiau T
+    - Batten C
+    - Kittleson JT
+    - DeLoache W
+    - Anderson JC
+  year: 2010
+  journal: Nucleic Acids Research
+  title: Algorithms for Automated DNA Assembly
+  tags: [research]
+
+anderson2010:
+  authors:
+    - Anderson JC
+    - Dueber JE
+    - Leguia M
+    - Wu GC
+    - Goler JA
+    - Arkin AP
+    - Keasling JD
+  year: 2010
+  journal: Journal of Biological Engineering
+  title: "BglBricks: A flexible standard for biological part assembly"
+  tags: [research]
+
+densmore2009:
+  authors:
+    - Densmore D
+    - Anderson JC
+  year: 2009
+  journal: IEEE International Symposium on Circuits and Systems (ISCAS)
+  title: Combinational Logic Design in Synthetic Biology
+  tags: [conference]
+
+czar2009:
+  authors:
+    - Czar MJ
+    - Anderson JC
+    - Bader JS
+    - Peccoud J
+  year: 2009
+  journal: Trends in Biotechnology
+  title: Gene synthesis demystified
+  tags: [research]
+
+anderson2007techrev:
+  authors:
+    - Anderson JC
+  year: 2007
+  journal: Technology Review
+  title: Cells By Design
+  tags: [review]
+
+guo2007:
+  authors:
+    - Guo J
+    - Wang J
+    - Anderson JC
+    - Schultz PG
+  year: 2007
+  journal: Angewandte Chemie International Edition
+  title: Addition of an Alpha Hydroxy Acid to the Genetic Code of Bacteria
+  tags: [research]
+
+cropp2007:
+  authors:
+    - Cropp TA
+    - Anderson JC
+    - Chin JW
+  year: 2007
+  journal: Nature Protocols
+  title: Reprogramming the amino acid substrate specificity of orthogonal aminoacyl-tRNA-synthetases to expand the genetic code of eukaryotic cells
+  tags: [research]
+
+anderson2007and:
+  authors:
+    - Anderson JC
+    - Voigt CA
+    - Arkin AP
+  year: 2007
+  journal: Molecular Systems Biology
+  title: Environmental signal integration by a modular AND gate
+  tags: [research]
+
+anderson2005:
+  authors:
+    - Anderson JC
+    - Clarke EJ
+    - Arkin AP
+    - Voigt CA
+  year: 2005
+  journal: Journal of Molecular Biology
+  title: Environmentally controlled invasion of cancer cells by engineered bacteria
+  tags: [research]
+
+anderson2004:
+  authors:
+    - Anderson JC
+    - Wu N
+    - Santoro SW
+    - Lakshman V
+    - King DS
+    - Schultz PG
+  year: 2004
+  journal: Proceedings of the National Academy of Sciences USA
+  title: An expanded genetic code with a functional quadruplet codon
+  tags: [research]
+
+santoro2003:
+  authors:
+    - Santoro SW
+    - Anderson JC
+    - Lakshman V
+    - Schultz PG
+  year: 2003
+  journal: Nucleic Acids Research
+  title: An archaebacteria-derived glutamyl-tRNA synthetase and tRNA pair for unnatural amino acid mutagenesis in Escherichia coli
+  tags: [research]
+
+deiters2003:
+  authors:
+    - Deiters A
+    - Cropp TA
+    - Mukherji M
+    - Chin JW
+    - Anderson JC
+    - Schultz PG
+  year: 2003
+  journal: Journal of the American Chemical Society
+  title: Adding amino acids with novel reactivity to the genetic code of Saccharomyces cerevisiae
+  tags: [research]
+
+chin2003:
+  authors:
+    - Chin JW
+    - Cropp TA
+    - Anderson JC
+    - Mukherji M
+    - Zhang Z
+    - Schultz PG
+  year: 2003
+  journal: Science
+  title: An expanded eukaryotic genetic code
+  tags: [research]
+
+anderson2003biochem:
+  authors:
+    - Anderson JC
+    - Schultz PG
+  year: 2003
+  journal: Biochemistry
+  title: Adaptation of an orthogonal archaeal leucyl-tRNA and synthetase pair for four-base, amber, and opal suppression
+  tags: [research]
+
+mehl2003:
+  authors:
+    - Mehl RA
+    - Anderson JC
+    - Santoro SW
+    - Wang L
+    - Martin AB
+    - King DS
+    - Horn DM
+    - Schultz PG
+  year: 2003
+  journal: Journal of the American Chemical Society
+  title: Generation of a bacterium with a 21 amino acid genetic code
+  tags: [research]
+
+anderson2002:
+  authors:
+    - Anderson JC
+    - Magliery TJ
+    - Schultz PG
+  year: 2002
+  journal: Chemistry & Biology
+  title: Exploring the limits of codon and anticodon size
+  tags: [research]
+
+magliery2001book:
+  authors:
+    - Magliery TJ
+    - Pastrnak M
+    - Anderson JC
+    - Santoro SW
+    - Herberich B
+    - Meggers EL
+    - Wang L
+    - Schultz PG
+  year: 2001
+  journal: Translation Mechanisms (book chapter)
+  title: "In vitro tools and in vivo engineering: incorporation of unnatural amino acids into proteins"
+  tags: [chapter]
+
+magliery2001:
+  authors:
+    - Magliery TJ
+    - Anderson JC
+    - Schultz PG
+  year: 2001
+  journal: Journal of Molecular Biology
+  title: "Expanding the genetic code: selection of efficient suppressors of four-base codons and identification of \"shifty\" four-base codons with a library approach in Escherichia coli"
+  tags: [research]
+
+betts1997:
+  authors:
+    - Betts D
+    - Johnson T
+    - Anderson JC
+    - DeSimone JM
+  year: 1997
+  journal: Polymer Preprints
+  title: Controlled radical polymerization methods for the synthesis of non-ionic surfactants for CO2
+  tags: [research]
